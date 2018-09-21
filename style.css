@@ -1,0 +1,20 @@
+/* nav.navbar{
+    padding: 0px  0px 0px 0px;
+    color: white;
+    
+} */
+a.navbar-brand{
+    background: #44aaaa;
+    color: white;
+
+    left:200px;
+}
+.a-custom{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight:bolder;
+}
+
+.img-custom1{
+    margin-right:10px;
+}
+
