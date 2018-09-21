@@ -3,7 +3,10 @@
     color: white;
     
 } */
-a.navbar-brand{
+.main-contain{
+    margin-top:30px;
+}
+.navbar-brand{
     background: #44aaaa;
     color: white;
 
@@ -18,3 +21,36 @@ font-weight:bolder;
     margin-right:10px;
 }
 
+.navbarlinks{
+margin-left:1000px;
+}
+.name-wrapper{
+    position:absolute;
+    left:100px;
+    height:100%;
+    overflow: hidden;
+}
+.text-left{
+    padding-right:4px;
+    height:450px;
+}
+.portfolio-img1{
+   position:absolute;
+    right:85px;
+}
+.portfolio-img2{
+    
+}
+.portfolio-img3{
+    position:absolute;
+    right:85px;
+}
+.portfolio-img4{
+    height:250px;
+    width:250px;
+
+}
+.portfolio-row2{
+    margin-top:30px;
+    margin-bottom:35px;
+}
