@@ -22,7 +22,7 @@ font-weight:bolder;
     margin-right:10px;
 }
 .navbarlinks{
-margin-left:1000px;
+margin-left:1200px;
 }
 .name-wrapper{
     position:absolute;
@@ -57,9 +57,7 @@ margin-left:1000px;
     margin:0 auto;
     padding-bottom:15px;
     padding-top: 15px;
-
 }
-
 .btn{
     background-color:#44aaaa;
     border: none;
@@ -84,7 +82,7 @@ margin-left:1000px;
     background-color: #44aaaa;
     color:white;
     bottom:0px;
-    right:303px;
+    right:304px;
     height: 60px;
 }
 .text-block3{
