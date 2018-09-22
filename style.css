@@ -1,30 +1,32 @@
 
+.navbar-main{
+    height:75px;
+}
 .main-contain{
     margin-top:30px;
 }
 .navbar-brand{
     background: #44aaaa;
     color: white;
-
     left:200px;
+    height:75px;
+    width:300px;
+    text-align: center;
+    font-size: 28px;
 }
 .a-custom{
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-weight:bolder;
 }
-
 .img-custom1{
     margin-right:10px;
 }
-
 .navbarlinks{
 margin-left:1000px;
 }
 .name-wrapper{
     position:absolute;
     left:100px;
-    height:100%;
-    overflow: hidden;
 }
 .text-left{
     padding-right:4px;
@@ -34,7 +36,6 @@ margin-left:1000px;
    position:absolute;
     right:85px;
 }
-
 .portfolio-img3{
     position:absolute;
     right:85px;
@@ -42,7 +43,6 @@ margin-left:1000px;
 .portfolio-img4{
     height:250px;
     width:250px;
-
 }
 .portfolio-row2{
     margin-top:30px;
@@ -59,12 +59,48 @@ margin-left:1000px;
     padding-top: 15px;
 
 }
-/* .message-box{
-    height:200px;
-} */
+
 .btn{
     background-color:#44aaaa;
     border: none;
     color:white;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.text-block {
+    position: absolute;
+    margin:auto;
+    width:250px;
+    background-color: #44aaaa;
+    color:white;
+    bottom:0px;
+    right:85px;
+    height: 60px;
+}
+.text-block2,
+.text-block4{
+    position: absolute;
+    margin:auto;
+    width:250px;
+    background-color: #44aaaa;
+    color:white;
+    bottom:0px;
+    right:303px;
+    height: 60px;
+}
+.text-block3{
+    position: absolute;
+    margin:auto;
+    width:250px;
+    background-color: #44aaaa;
+    color:white;
+    bottom:0px;
+    right:85px;
+    height: 60px;
+}
+.img-text{
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    position: relative;
+    top:15px;
 }
