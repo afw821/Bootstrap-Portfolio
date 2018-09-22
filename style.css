@@ -1,8 +1,4 @@
-/* nav.navbar{
-    padding: 0px  0px 0px 0px;
-    color: white;
-    
-} */
+
 .main-contain{
     margin-top:30px;
 }
@@ -38,9 +34,7 @@ margin-left:1000px;
    position:absolute;
     right:85px;
 }
-.portfolio-img2{
-    
-}
+
 .portfolio-img3{
     position:absolute;
     right:85px;
@@ -53,4 +47,24 @@ margin-left:1000px;
 .portfolio-row2{
     margin-top:30px;
     margin-bottom:35px;
+}
+.footer{
+    border-top: 5px solid #44aaaa;
+    background-color:#666666;
+}
+.footer-p{
+    color:white;
+    margin:0 auto;
+    padding-bottom:15px;
+    padding-top: 15px;
+
+}
+/* .message-box{
+    height:200px;
+} */
+.btn{
+    background-color:#44aaaa;
+    border: none;
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
